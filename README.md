@@ -25,9 +25,9 @@ Hi, Im Dos👋<br> I started my coding journey as a first year BSIT IT student o
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46" alt="github logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="46" alt="photoshop logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="46" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="46" alt="photoshop logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="46" alt="premierepro logo"  />
   <img width="14" />
