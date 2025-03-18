@@ -1,5 +1,11 @@
 ## Hi, Im Dos👋
 
+
+<details>
+ <summary><h3>👨‍💻 DOs</h3></summary>
+   I started my coding journey as a first year BSIT IT student on NEUST papaya off campus now my journey on coding has starting my main focus on my goal is to be full-stack Developer or be a Front-end Developer im focusing building small project and im exploring some other things to have improvements.
+
+
 <!--
 
 **Dosss42/Dosss42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,10 +47,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Premier Pro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 
 
-
-
-
-#
 <!--
 <details>
  <summary><h3>👨‍💻 DOs</h3></summary>
