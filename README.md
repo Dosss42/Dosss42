@@ -1,6 +1,6 @@
 
 ### <h1>Hi 👋, I'm Dos Future Front-End Developer</h1>
-Hi, Im Dos👋<br> I started my coding journey as a first year BSIT IT student on NEUST papaya off campus now my journey on coding has starting my main focus on my goal is to be full-stack Developer or be a Front-end Developer im focusing building small project and im exploring some other things to have improvements.
+Hi, Im Dos👋<br> I started my coding journey as a first-year BSIT IT student at NEUST Papaya off campus. Now my journey in coding has started, and my main focus is my goal to be a full-stack developer or a front-end developer. I'm focusing on building small projects, and I'm exploring some other things to have improvements. I learnt some basics of HTML and CSS and a little JavaScript on my personal portfolio. I'm practising my design skills to enjoy front-end development, but I hate logic like C++ and Java. But I need to pass my subject, and now I'm focusing on web development for my skills for front-end, and I know I need a lot to learn to be a better full-stack developer after 5 years.
 
 ### <h2>🚀 Languages and Tools I Use</h2>
 
