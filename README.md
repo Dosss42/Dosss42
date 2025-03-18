@@ -46,9 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Premier Pro" width="50px" style="padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 
 
-
-
----
+--- ### GITHUB STREAK
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dosss42&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
