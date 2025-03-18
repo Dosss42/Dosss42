@@ -1,26 +1,9 @@
-## Hi, Im Dos👋
+# Hi, Im Dos👋
+**`(Future Full-stack Developer/ Front-end Developer/ Editor)`**
 
  <summary><h3>👨‍💻 Dos</h3></summary>
    I started my coding journey as a first year BSIT IT student on NEUST papaya off campus now my journey on coding has starting my main focus on my goal is to be full-stack Developer or be a Front-end Developer im focusing building small project and im exploring some other things to have improvements.
 
-
-<!--
-
-**Dosss42/Dosss42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**`(Future Full-stack Developer/ Front-end Developer/ Editor)`**
 
 ---
 
