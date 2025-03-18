@@ -1,7 +1,7 @@
 
 Hi, Im Dos👋<br> I started my coding journey as a first year BSIT IT student on NEUST papaya off campus now my journey on coding has starting my main focus on my goal is to be full-stack Developer or be a Front-end Developer im focusing building small project and im exploring some other things to have improvements.
 
-###
+###<h2>🚀 Languages and Tools I Use</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -35,7 +35,7 @@ Hi, Im Dos👋<br> I started my coding journey as a first year BSIT IT student o
 
 <img align="right" height="148" src="https://tenor.com/view/coding-gif-18657810.gif"  />
 
-###
+### 🌐 Socials:
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
