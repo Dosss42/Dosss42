@@ -32,7 +32,6 @@ Hi, Im Dos👋<br> I started my coding journey as a first year BSIT IT student o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" alt="aftereffects logo"  />
 </div>
 
-###
 
 <img align="right" height="148" src="https://tenor.com/view/coding-gif-18657810.gif"  />
 
