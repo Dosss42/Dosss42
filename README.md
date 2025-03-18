@@ -1,6 +1,6 @@
 ## Hi, Im Dos👋
 
- <summary><h3>👨‍💻 DOs</h3></summary>
+ <summary><h3>👨‍💻 D0s</h3></summary>
    I started my coding journey as a first year BSIT IT student on NEUST papaya off campus now my journey on coding has starting my main focus on my goal is to be full-stack Developer or be a Front-end Developer im focusing building small project and im exploring some other things to have improvements.
 
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**`(Future Developer/Filmmaker/Editor)`**
+**`(Future Full-stack Developer/ Front-end Developer/ Editor)`**
 
 ---
 
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Eclipse" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 
-<img align="left" alt="PhotoShop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="left" alt="Premier Pro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+<img align="left" alt="PhotoShop" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" alt="Premier Pro" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 
 
 <!--
